@@ -1,0 +1,15 @@
+/Users/yana/Desktop/Новая папка 2/bin/Debug/net6.0/Новая папка 2
+/Users/yana/Desktop/Новая папка 2/bin/Debug/net6.0/Новая папка 2.deps.json
+/Users/yana/Desktop/Новая папка 2/bin/Debug/net6.0/Новая папка 2.runtimeconfig.json
+/Users/yana/Desktop/Новая папка 2/bin/Debug/net6.0/Новая папка 2.dll
+/Users/yana/Desktop/Новая папка 2/bin/Debug/net6.0/Новая папка 2.pdb
+/Users/yana/Desktop/Новая папка 2/obj/Debug/net6.0/Новая папка 2.csproj.AssemblyReference.cache
+/Users/yana/Desktop/Новая папка 2/obj/Debug/net6.0/Новая папка 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yana/Desktop/Новая папка 2/obj/Debug/net6.0/Новая папка 2.AssemblyInfoInputs.cache
+/Users/yana/Desktop/Новая папка 2/obj/Debug/net6.0/Новая папка 2.AssemblyInfo.cs
+/Users/yana/Desktop/Новая папка 2/obj/Debug/net6.0/Новая папка 2.csproj.CoreCompileInputs.cache
+/Users/yana/Desktop/Новая папка 2/obj/Debug/net6.0/Новая папка 2.dll
+/Users/yana/Desktop/Новая папка 2/obj/Debug/net6.0/refint/Новая папка 2.dll
+/Users/yana/Desktop/Новая папка 2/obj/Debug/net6.0/Новая папка 2.pdb
+/Users/yana/Desktop/Новая папка 2/obj/Debug/net6.0/Новая папка 2.genruntimeconfig.cache
+/Users/yana/Desktop/Новая папка 2/obj/Debug/net6.0/ref/Новая папка 2.dll
