@@ -1,0 +1,15 @@
+/Users/yana/Desktop/seminar 7/obj/Debug/net6.0/seminar 7.csproj.AssemblyReference.cache
+/Users/yana/Desktop/seminar 7/obj/Debug/net6.0/seminar 7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yana/Desktop/seminar 7/obj/Debug/net6.0/seminar 7.AssemblyInfoInputs.cache
+/Users/yana/Desktop/seminar 7/obj/Debug/net6.0/seminar 7.AssemblyInfo.cs
+/Users/yana/Desktop/seminar 7/obj/Debug/net6.0/seminar 7.csproj.CoreCompileInputs.cache
+/Users/yana/Desktop/seminar 7/bin/Debug/net6.0/seminar 7
+/Users/yana/Desktop/seminar 7/bin/Debug/net6.0/seminar 7.deps.json
+/Users/yana/Desktop/seminar 7/bin/Debug/net6.0/seminar 7.runtimeconfig.json
+/Users/yana/Desktop/seminar 7/bin/Debug/net6.0/seminar 7.dll
+/Users/yana/Desktop/seminar 7/bin/Debug/net6.0/seminar 7.pdb
+/Users/yana/Desktop/seminar 7/obj/Debug/net6.0/seminar 7.dll
+/Users/yana/Desktop/seminar 7/obj/Debug/net6.0/refint/seminar 7.dll
+/Users/yana/Desktop/seminar 7/obj/Debug/net6.0/seminar 7.pdb
+/Users/yana/Desktop/seminar 7/obj/Debug/net6.0/seminar 7.genruntimeconfig.cache
+/Users/yana/Desktop/seminar 7/obj/Debug/net6.0/ref/seminar 7.dll
