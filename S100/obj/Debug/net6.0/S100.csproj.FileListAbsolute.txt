@@ -1,0 +1,15 @@
+/Users/yana/Desktop/YanaRepos/S100/bin/Debug/net6.0/S100
+/Users/yana/Desktop/YanaRepos/S100/bin/Debug/net6.0/S100.deps.json
+/Users/yana/Desktop/YanaRepos/S100/bin/Debug/net6.0/S100.runtimeconfig.json
+/Users/yana/Desktop/YanaRepos/S100/bin/Debug/net6.0/S100.dll
+/Users/yana/Desktop/YanaRepos/S100/bin/Debug/net6.0/S100.pdb
+/Users/yana/Desktop/YanaRepos/S100/obj/Debug/net6.0/S100.csproj.AssemblyReference.cache
+/Users/yana/Desktop/YanaRepos/S100/obj/Debug/net6.0/S100.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yana/Desktop/YanaRepos/S100/obj/Debug/net6.0/S100.AssemblyInfoInputs.cache
+/Users/yana/Desktop/YanaRepos/S100/obj/Debug/net6.0/S100.AssemblyInfo.cs
+/Users/yana/Desktop/YanaRepos/S100/obj/Debug/net6.0/S100.csproj.CoreCompileInputs.cache
+/Users/yana/Desktop/YanaRepos/S100/obj/Debug/net6.0/S100.dll
+/Users/yana/Desktop/YanaRepos/S100/obj/Debug/net6.0/refint/S100.dll
+/Users/yana/Desktop/YanaRepos/S100/obj/Debug/net6.0/S100.pdb
+/Users/yana/Desktop/YanaRepos/S100/obj/Debug/net6.0/S100.genruntimeconfig.cache
+/Users/yana/Desktop/YanaRepos/S100/obj/Debug/net6.0/ref/S100.dll
